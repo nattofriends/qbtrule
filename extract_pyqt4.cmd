@@ -1,0 +1,1 @@
+%0\..\7z.exe e -y -o%0\.. %1 Lib/site-packages/PyQt4/QtCore4.dll Lib/site-packages/PyQt4/QtCore.pyd Lib/site-packages/sip.pyd

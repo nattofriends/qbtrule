@@ -1,5 +1,6 @@
-Deserialize qBitTorrent rules
+qbtrule
+=======
 
-If you like virtualenvs, the PyQt4 installer is extractable.
+Deserialize qBitTorrent RSSRULES to json and back.
 
-PySide is incomatible as it does not know how to read a QVariantHash into a dict.
+Requires PyQt4 core components: QtCore.pyd, QtCore4.dll, sip.pyd. To update or get these files, drag a PyQt4 installer onto extract_pyqt4.cmd.
